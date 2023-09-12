@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Setti;Eduardo Carvalhaes
+ORG:Sempes S.A. Indústria de plásticos 
+TITLE:Departamento Comercial
+EMAIL;TYPE=INTERNET:eduardo@sempes.com.br
+URL:http://www.sempes.com.br/
+TEL;TYPE=CELL:(11) 99114-8463
+TEL:(11) 4368-6964
+ADR:;;Rua José Versolato\, 111 Bloco B Sala 3014 ;São Paulo;São Bernardo Do Campo;09750-730;Brasil
+END:VCARD
